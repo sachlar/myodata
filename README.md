@@ -1,39 +1,77 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# MYO data engineering 
 
-Welcome USER_NAME,
+This is the User Centric Front ENd Development Project for COde Institute
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+The site is a shop window for customers that may need data engineering services
 
-## Gitpod Reminders
+## at some point there will be a live demo hosted outside of github pages at https://www.myolife.co.uk/
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## UX
 
-`python3 -m http.server`
+### User Stories
 
-A blue button should appear to click: *Make Public*,
+As a prospective customer I want to see the data engineering services provided
+As a prospective customer I want to see the data engineering work previously completed
+As a prospective customer I want to see some information about the data engineering company
+As a prospective customer I want to an easy way to contact the company
 
-Another blue button should appear to click: *Open Browser*.
+### Strategy
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Provide a clean simple intuitive site that showcases describes what we do, what we have done, how we work, allow ease of use and be easy to reach
 
-A blue button should appear to click: *Make Public*,
+### Scope
 
-Another blue button should appear to click: *Open Browser*.
+What, How & Why 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+### Structure
 
-## Updates Since The Instructional Video
+simple responsive navigation through site for all users and devices
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+### Skeleton
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+Home - wireframe
+Services - wireframe
+Projects - wireframe
+About - wireframe
+Contact - wireframe
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+### Surface
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+Modern simple look and feel with splashes of color
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+## Technologies
 
---------
+HTML
+CSS 
 
-Happy coding!
+## Features
+
+All proposed features implemented
+
+### Features left to implement
+
+It will become a working site end to end at some point in the future
+
+## Testing
+
+Click through all pages and features
+Multi Device testing
+Multi browser testing
+All links open in a new window "target='_blank'"
+Brochure downloads
+
+## Deployment
+
+Site deployed to github pages 
+
+## Credits
+
+### Content
+All content created and written by myself
+
+### Media
+All graphics created by me using Inkscape
+
+Photos used were stock images from https://www.pexels.com/ or personally taken Photos
+
+Media queries developed from codeinstitute examples and googling specific details 
