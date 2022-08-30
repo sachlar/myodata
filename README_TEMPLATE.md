@@ -6,7 +6,7 @@ This is the Code Institute student template for Gitpod. We have preinstalled all
 
 ## Gitpod Reminders
 ## JUST UPDATE COMMENT TO DEMO GIT PULLS 
-
+## JUST UPDATE COMMENT 2 TO DDEMO GIT PUSH  
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
 `python3 -m http.server`
